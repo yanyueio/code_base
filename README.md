@@ -12,4 +12,12 @@ public code(not belong to any project) at github, all store in this repo
 
 短时间内不会再有更新了，希望这个 "Mile" 对你有帮助。
 
-* https://codepen.io/viktorjs/pen/KQZYjo
+
+
+![project_mile](./assets/project_mile.png)
+
+效果图形demo：
+
+![project_mile](./assets/project_mile_1.png)
+
+* UI参考 https://codepen.io/viktorjs/pen/KQZYjo
